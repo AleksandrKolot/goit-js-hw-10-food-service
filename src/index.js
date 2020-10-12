@@ -1,3 +1,3 @@
-import * as selectTheme from './js/theme';
-import * as makeMarkup from './js/murkup';
+import './js/theme';
+import './js/murkup';
 import './styles.css';
